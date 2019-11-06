@@ -1,1 +1,2 @@
 # Python_APIs_Challenge
+This assignment contains the Jupyter Notebook containing code that randomly selects 500 cities in the world via randomly selecting latitude and longitude coordinates. It then makes calls to the OpenWeather API to extract data on Temperature, Humidity, Cloudiness, and Windiness. Matplotlib is used to plot each series of weather data against longitude in an effort to demonstrate that "it is hotter near the equater". 
